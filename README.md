@@ -2,7 +2,7 @@
 
 Proyek **Ujian Tengah Semester (UTS) Kapita Selekta Informatika**: menganalisis data penjualan Nike di Amerika Serikat dan membangun model klasifikasi untuk memprediksi apakah sebuah transaksi memiliki **volume penjualan tinggi (High Sales Volume)**.
 
-> Nama: _[isi nama]_ · NIM: _[isi NIM]_ · Program Studi: _[isi prodi]_
+> Nama: Najwa kathrenia · NIM: 20240801221 · Program Studi: Teknik Informatika
 
 ---
 
